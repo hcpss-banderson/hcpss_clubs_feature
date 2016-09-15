@@ -1,0 +1,15 @@
+{
+  "name": "hcpss/hcpss_clubs_feature",
+  "type": "drupal-module",
+  "description": "Club content type.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/hcpss-banderson/hcpss_clubs_feature",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Brendan Anderson",
+      "role": "Maintainer"
+    }
+  ]
+}
